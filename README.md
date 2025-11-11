@@ -1,7 +1,7 @@
-# 🚚 NextGen LiveOps — Real-Time Incident Intelligence System
+# 🚚 NexGen LiveOps — Real-Time Incident Intelligence System
 
 ## 📘 Overview
-**NextGen LiveOps** is a multi-agent, AI-driven logistics intelligence system built with **Python**, **Streamlit**, and **Gemini 2.5 Flash**. It detects, analyses, and explains operational incidents — such as delivery delays, cost spikes, and customer complaints — in real time.
+**NexGen LiveOps** is a multi-agent, AI-driven logistics intelligence system built with **Python**, **Streamlit**, and **Gemini 2.5 Flash**. It detects, analyses, and explains operational incidents — such as delivery delays, cost spikes, and customer complaints — in real time.
 
 The app unifies seven datasets from NexGen Logistics to generate actionable insights, automate response planning, and enable natural-language Q&A through an embedded RAG assistant.
 
